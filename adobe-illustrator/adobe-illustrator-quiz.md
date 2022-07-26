@@ -568,4 +568,11 @@
 - [x] Round Cap
 - [ ] Align Stroke to Outside
 
+#### Q77. You're working on a complex document with many collapsed layers. you have an object selected in the document window.how can you quickly find it in the Layers panel ?
+
+- [ ] Click **Object>Arrange>Bring to Front**.
+- [x] Click the **Locate Object** button on the **Layers** panel.
+- [ ] Select **Show All Layers** from the **Layers** panel .
+- [ ] Click **Object>Show All**.
+
 [How to Round End of Path (Line) in Illustrator](https://www.youtube.com/watch?v=UCQb-JTRIm4&t=92s)
